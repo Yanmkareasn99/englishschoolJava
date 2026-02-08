@@ -5,7 +5,5 @@ public class Main {
 		UC11and12 uc = new UC11and12();
 		// uc.viewTeacherSch();
 		uc.cancellationProcess();
-		//bf.bruteForceAttack(); //bruteforce attack
-		
 	}
 }
