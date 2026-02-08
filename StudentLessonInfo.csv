@@ -1,0 +1,52 @@
+StudentID, Full Name, date of birth, status, points, subject
+SID-9241, Elena Rodriguez, 1998-05-12,cancellation, 450, Advanced Calculus 
+SID-1108, Marcus Thorne, 2001-11-22, Cancellation, 50, Intro to Psychology 
+SID-5562, Sarah Jenkins, 1999-02-03, Active, 1200, Organic Chemistry 
+SID-8834, Liam OConnor, 2003-08-30, Cancellation, 0, None 
+SID-3421, Amara Okafor, 2000-01-15, Active, 890, Macroeconomics 
+SID-7709, Hiroshi Tanaka, 2002-06-25, Cancellation, 310, Modern Art History 
+SID-2291, Chloe Beaufort, 1997-12-09, Cancellation, 2150, None 
+SID-4410, Julian Voss, 2004-03-18, Active, 125, Creative Writing 
+SID-6327, Sofia Moretti, 2001-09-04, Trial, 25, Beginner Italian 
+SID-1554, David Miller, 1999-07-21, Cancellation, 400, Ethics in Tech
+SID-9241, Elena Rodriguez, 1998-05-12,cancellation, 450, Advanced Calculus 
+SID-1108, Marcus Thorne, 2001-11-22, Cancellation, 50, Intro to Psychology 
+SID-5562, Sarah Jenkins, 1999-02-03, Active, 1200, Organic Chemistry 
+SID-8834, Liam OConnor, 2003-08-30, Cancellation, 0, None 
+SID-3421, Amara Okafor, 2000-01-15, Active, 890, Macroeconomics 
+SID-7709, Hiroshi Tanaka, 2002-06-25, Cancellation, 310, Modern Art History 
+SID-2291, Chloe Beaufort, 1997-12-09, Cancellation, 2150, None 
+SID-4410, Julian Voss, 2004-03-18, Active, 125, Creative Writing 
+SID-6327, Sofia Moretti, 2001-09-04, Trial, 25, Beginner Italian 
+SID-1554, David Miller, 1999-07-21, Cancellation, 400, Ethics in Tech
+StudentID,Full Name,Date of Birth,Status,Points,Subject
+SID-1123,Isabella Silva,2000-04-12,Active,1420,Marine Biology
+SID-5582,Thomas Müller,1999-11-30,Cancellation,210,European History
+SID-3049,Fatima Zahra,2002-01-22,Active,890,Microeconomics
+SID-8821,Erik Berg,1998-06-05,Cancellation,0,None
+SID-4470,Priya Sharma,2001-09-14,Active,1750,Digital Marketing
+SID-6612,Hans Meyer,1997-02-28,Cancellation,530,Classical Music
+SID-2298,Elena Dubois,2003-12-10,Active,640,Sociology
+SID-7734,Kwesi Appiah,2000-08-03,Active,1120,Civil Engineering
+SID-1105,Min-ho Kim,2002-05-19,Cancellation,150,None
+SID-9943,Clara Vogt,1999-03-25,Active,2300,Astrophysics
+SID-3381,Ahmed Hassan,2001-07-07,Cancellation,45,Creative Writing
+SID-5529,Sofia Conti,1998-10-15,Active,1050,International Law
+SID-8810,Liam Wright,2004-01-02,Active,320,Intro to Philosophy
+SID-4402,Ananya Rao,2000-11-20,Cancellation,890,None
+SID-2267,Jean-Pierre,1997-05-12,Cancellation,110,Political Science
+SID-7791,Sakura Tanaka,2002-09-08,Active,1580,Graphic Design
+SID-1145,Carlos Ruiz,1999-12-24,Active,910,Environmental Science
+SID-6632,Olivia Brown,2001-02-17,Cancellation,0,None
+SID-3354,Dmitri Volkov,1998-04-30,Active,1940,Cyber Security
+SID-9921,Zara Khan,2003-06-14,Active,760,Public Relations
+SID-5518,Noah Williams,2000-10-01,Cancellation,225,Anthropology
+SID-8876,Emily Chen,2002-03-11,Active,1210,Biochemistry
+SID-4433,Mateo Garcia,1997-08-27,Cancellation,1100,None
+SID-2210,Freya Jensen,2001-05-05,Active,2050,Game Development
+SID-7742,Arjun Patel,1999-07-19,Cancellation,480,Statistics
+SID-1199,Leila Benali,2004-02-14,Active,540,Journalism
+SID-6680,Igor Petrov,1998-01-09,Active,1670,Mechanical Engineering
+SID-3311,Anna Novak,2002-11-22,Cancellation,15,None
+SID-9905,Ben Thompson,2000-03-18,Active,1320,Architecture
+SID-5541,Lucia Ferrero,2001-06-30,Cancellation,670,Urban Planning
