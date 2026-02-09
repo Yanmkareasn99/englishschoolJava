@@ -1,0 +1,101 @@
+Date, Time, Lesson Format, Student Name, Teacher
+2026-01-30,12:30, One-on-one,Sofia Rossi, TID-4021
+2026-01-30,10:00, One-on-one,Liam Sullivan, TID-4021
+2026-01-08,10:30, group ,Elena Rodriguez, TID-4021
+2026-01-08,10:30, group ,Marcus Thorne, TID-4021
+2026-01-08,10:30, group ,Julian Vane, TID-7728
+2026-01-08,10:30, group ,Marcus Thorne, TID-4021
+2026-01-08,10:30, group ,Amara Okafor, TID-4021
+2026-01-08,10:30, group ,Marcus Thorne, TID-4021
+2026-01-08,10:30, group ,Sofia Rossi, TID-4021
+2026-01-08,10:30, group ,arah Jenkins, TID-4021
+2026-01-06,01:15, group,Sarah Jenkins, TID-7728
+2026-01-06,04:00, group,Kenji Tanaka, TID-7728
+2026-01-28,11:00, One-on-one,Amara Okafor, TID-8843
+2026-01-28,08:30, group,David Miller, TID-8843
+2026-01-29,02:45, group,Chloe Beaumont, TID-7728
+2026-01-29,02:45, group,Chloe Beumont, TID-7728
+2026-01-29,10:00, group,Liam Sullivan, TID-7728
+2026-01-29,12:30, group,Sofia Rossi, TID-7728
+2026-01-31,03:20, One-on-one,Julian Vane, TID-8843
+2026-01-31,01:15, One-on-one,Sarah Jenkins, TID-7728
+2026-02-01,09:00,One-on-one,Sofia Rossi,TID-4021
+2026-02-01,10:30,Group,Javier Mendez,TID-1185
+2026-02-01,13:00,One-on-one,Aisha Gupta,TID-9930
+2026-02-02,09:00,Group,Lucas Nielsen,TID-2247
+2026-02-02,11:00,One-on-one,Mei Ling Chen,TID-5502
+2026-02-02,14:00,One-on-one,Oliver Smith,TID-3391
+2026-02-03,10:00,Group,Zainab Al-Farsi,TID-7728
+2026-02-03,15:30,One-on-one,Yuki Sato,TID-6614
+2026-02-04,08:30,One-on-one,Isabella Silva,TID-8843
+2026-02-04,11:00,Group,Thomas Müller,TID-4021
+2026-02-04,14:30,One-on-one,Fatima Zahra,TID-1185
+2026-02-05,09:00,One-on-one,Erik Berg,TID-9930
+2026-02-05,10:00,Group,Priya Sharma,TID-2247
+2026-02-05,13:00,One-on-one,Hans Meyer,TID-5502
+2026-02-06,11:30,One-on-one,Elena Dubois,TID-3391
+2026-02-06,15:00,Group,Kwesi Appiah,TID-7728
+2026-02-07,10:00,One-on-one,Min-ho Kim,TID-6614
+2026-02-07,14:00,One-on-one,Clara Vogt,TID-8843
+2026-02-08,09:30,Group,Ahmed Hassan,TID-4021
+2026-02-08,12:00,One-on-one,Sofia Conti,TID-1185
+2026-02-09,11:00,One-on-one,Liam Wright,TID-9930
+2026-02-09,14:00,Group,Ananya Rao,TID-2247
+2026-02-10,08:00,One-on-one,Jean-Pierre,TID-5502
+2026-02-10,13:00,One-on-one,Sakura Tanaka,TID-3391
+2026-02-11,10:30,Group,Carlos Ruiz,TID-7728
+2026-02-11,15:00,One-on-one,Olivia Brown,TID-6614
+2026-02-12,09:00,One-on-one,Dmitri Volkov,TID-8843
+2026-02-12,12:30,Group,Zara Khan,TID-4021
+2026-02-13,11:00,One-on-one,Noah Williams,TID-1185
+2026-02-13,14:00,One-on-one,Emily Chen,TID-9930
+2026-02-14,10:00,Group,Mateo Garcia,TID-2247
+2026-02-14,16:00,One-on-one,Freya Jensen,TID-5502
+2026-02-15,09:00,One-on-one,Arjun Patel,TID-3391
+2026-02-15,13:30,Group,Leila Benali,TID-7728
+2026-02-16,11:00,One-on-one,Igor Petrov,TID-6614
+2026-02-16,15:00,One-on-one,Anna Novak,TID-8843
+2026-02-17,10:30,Group,Ben Thompson,TID-4021
+2026-02-17,14:00,One-on-one,Lucia Ferrero,TID-1185
+2026-02-18,08:30,One-on-one,Sofia Rossi,TID-9930
+2026-02-18,12:00,Group,Javier Mendez,TID-2247
+2026-02-19,11:00,One-on-one,Aisha Gupta,TID-5502
+2026-02-19,15:30,One-on-one,Lucas Nielsen,TID-3391
+2026-02-20,09:00,Group,Mei Ling Chen,TID-7728
+2026-02-20,13:00,One-on-one,Oliver Smith,TID-6614
+2026-02-21,10:00,One-on-one,Zainab Al-Farsi,TID-8843
+2026-02-21,14:30,Group,Yuki Sato,TID-4021
+2026-02-22,11:30,One-on-one,Isabella Silva,TID-1185
+2026-02-22,15:00,One-on-one,Thomas Müller,TID-9930
+2026-02-23,09:00,Group,Fatima Zahra,TID-2247
+2026-02-23,12:30,One-on-one,Erik Berg,TID-5502
+2026-02-24,10:30,One-on-one,Priya Sharma,TID-3391
+2026-02-24,14:00,Group,Hans Meyer,TID-7728
+2026-02-25,08:00,One-on-one,Elena Dubois,TID-6614
+2026-02-25,13:00,One-on-one,Kwesi Appiah,TID-8843
+2026-02-26,11:00,Group,Min-ho Kim,TID-4021
+2026-02-26,15:30,One-on-one,Clara Vogt,TID-1185
+2026-02-27,09:30,One-on-one,Ahmed Hassan,TID-9930
+2026-02-27,12:00,Group,Sofia Conti,TID-2247
+2026-02-28,10:00,One-on-one,Liam Wright,TID-5502
+2026-02-28,14:30,One-on-one,Ananya Rao,TID-3391
+2026-03-01,09:00,Group,Jean-Pierre,TID-7728
+2026-03-01,11:00,One-on-one,Sakura Tanaka,TID-6614
+2026-03-02,13:00,One-on-one,Carlos Ruiz,TID-8843
+2026-03-02,15:00,Group,Olivia Brown,TID-4021
+2026-03-03,08:30,One-on-one,Dmitri Volkov,TID-1185
+2026-03-03,11:30,One-on-one,Zara Khan,TID-9930
+2026-03-04,10:00,Group,Noah Williams,TID-2247
+2026-03-04,14:00,One-on-one,Emily Chen,TID-5502
+2026-03-05,09:00,One-on-one,Mateo Garcia,TID-3391
+2026-03-05,12:30,Group,Freya Jensen,TID-7728
+2026-03-06,11:00,One-on-one,Arjun Patel,TID-6614
+2026-03-06,15:00,One-on-one,Leila Benali,TID-8843
+2026-03-07,10:30,Group,Igor Petrov,TID-4021
+2026-03-07,13:00,One-on-one,Anna Novak,TID-1185
+2026-03-08,09:00,One-on-one,Ben Thompson,TID-9930
+2026-03-08,12:00,Group,Lucia Ferrero,TID-2247
+2026-03-09,11:00,One-on-one,Sofia Rossi,TID-5502
+2026-03-09,14:30,One-on-one,Javier Mendez,TID-3391
+2026-03-10,08:00,Group,Aisha Gupta,TID-7728
+2026-03-10,13:00,One-on-one,Lucas Nielsen,TID-6614
